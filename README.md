@@ -30,6 +30,8 @@ Youtube link for presentation of the codes, database and web page: https://www.y
 * https://github.com/
 * https://stackoverflow.com/
 * https://medium.com/
+* https://www.w3schools.com/
+* https://www.geeksforgeeks.org/
 
 ## Contact
 
