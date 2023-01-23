@@ -18,6 +18,10 @@ TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Büt�
 
 Youtube link for presentation of the codes, database and web page: https://www.youtube.com/watch?v=KrPTJFf-0qs
 
+![alt text](https://github.com/GMT-351-Geospatial-Data-Management/TEAM-T/blob/main/SS-1.jpg)
+
+![alt text](https://github.com/GMT-351-Geospatial-Data-Management/TEAM-T/blob/main/SS-2.jpg)
+
 ## References
 * https://github.com/
 * https://stackoverflow.com/
