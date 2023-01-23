@@ -18,6 +18,11 @@ TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Büt�
 
 Youtube link for presentation of the codes, database and web page: https://www.youtube.com/watch?v=KrPTJFf-0qs
 
+## References
+* https://github.com/
+* https://stackoverflow.com/
+* https://medium.com/
+
 ## Contact
 
 * <a href="https://github.com/hyper35" target="_blank">Alperen Mollaahmet</a>
