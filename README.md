@@ -18,9 +18,6 @@ TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Büt�
 
 Youtube link for presentation of the codes, database and web page: https://www.youtube.com/watch?v=KrPTJFf-0qs
 
-![Alt text](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-01-23%20205118.jpg)
-
-![Alt text](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-01-23%20205106.jpg)
 ## Contact
 
 * <a href="https://github.com/hyper35" target="_blank">Alperen Mollaahmet</a>
