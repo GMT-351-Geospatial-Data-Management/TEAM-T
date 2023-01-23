@@ -16,7 +16,7 @@ TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Büt�
 - migrate the databases with 'python manage.py makemigrations' and 'python manage.py migrate' commands in terminal.
 - finally you can start the app with the 'python manage.py runserver' command, then click with ctrl to "http://127.0.0.1:8000/" link which appeared in the terminal.
 
-#### Youtube link for presentation of the codes, database and web page: https://www.youtube.com/watch?v=KrPTJFf-0qs
+### Youtube link for presentation of the codes, database and web page: https://www.youtube.com/watch?v=KrPTJFf-0qs
 
 ## Overview Diagram
 ![alt text](https://github.com/GMT-351-Geospatial-Data-Management/TEAM-T/blob/main/overview%20diagram.png)
