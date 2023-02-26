@@ -1,5 +1,5 @@
-# Team-T University Clubs & Events Project
-TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Bütünoğlu) Python Django based web page, connected with PostgreSQL DataBase
+# University Clubs & Events Project
+@hyper35 (Alperen Mollaahmet) Python Django based web page, connected with PostgreSQL DataBase
 ## GMT351 SPATIAL DATA MANAGEMENT
 ###  Technologies - Backend
 
@@ -38,5 +38,3 @@ TEAM-T @hyper35 @pelinbtn @edamellec(Alperen Mollaahmet, Eda Meleç, Pelin Büt�
 ## Contact
 
 * <a href="https://github.com/hyper35" target="_blank">Alperen Mollaahmet</a> - [Gmail](mailto:alperen.molla@gmail.com)
-* <a href="https://github.com/edamellec" target="_blank">Eda Meleç</a>
-* <a href="https://github.com/pelinbtn" target="_blank">Pelin Bütünoğlu</a>
